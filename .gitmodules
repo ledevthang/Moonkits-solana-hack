@@ -1,0 +1,9 @@
+[submodule "evocean-be"]
+	path = evocean-be
+	url = https://github.com/ledevthang/evocean-be
+[submodule "evocean-dapp"]
+	path = evocean-dapp
+	url = https://github.com/ledevthang/evocean-dapp
+[submodule "evocean-sc"]
+	path = evocean-sc
+	url = https://github.com/ledevthang/evocean-sc
